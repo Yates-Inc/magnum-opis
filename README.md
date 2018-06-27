@@ -1,1 +1,4 @@
-# magnum-opis
+# magnum-opus
+
+
+Project for magnum opus
